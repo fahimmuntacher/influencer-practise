@@ -101,4 +101,18 @@ header banner style
 }
 /* header banner style close */
 
+.companies{
+    position: absolute;
+    justify-content: space-between;
+    left: 14%;
+    top: 90%;
+    
+    background: rgb(248, 248, 248);
+    border-radius: 50px;
+}
+.companies-logo{
+    position: relative;
+    margin: 30px;
+}
 
+/* compani add done */
