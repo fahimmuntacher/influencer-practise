@@ -49,4 +49,56 @@ ul{
 }
 /* nav style end */
 
+/* ----------------
+header banner style
+-------------------- */
+.header{
+    display: flex;
+}
+.header-title{
+    position: absolute;
+    left: 8.5%;
+    top: 30%;
+    font-family: 'Poppins'; 
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 40px;
+    line-height: 28px;
+}
+.header-p{
+    position: absolute;
+    top: 40%;
+    left: 8.5%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    font-feature-settings: 'liga' off;
+     color: #3A3A3A;
+
+}
+.header-btn{
+    position: absolute;
+    top: 54%;
+    left: 12%;
+    background-color: rgb(245, 42, 19);
+    width: 150px;
+    color: white;
+    border-radius: 15px;
+    height: 35px;
+    padding: 5px;
+    border: none;
+
+}
+
+.header-img{
+    position: absolute;
+    top: 20%;
+    left: 58%;
+    background-color: aliceblue;
+    border-radius: 70px;
+}
+/* header banner style close */
+
 
